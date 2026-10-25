@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lohith%20B%20N&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Statistics%20%7C%20Python%20%26%20R&descAlignY=60&descSize=18" alt="Lohith B N banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lohith%20B%20N&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Statistics%20%7C%20Python%20%7C%20R&descAlignY=60&descSize=18" alt="Lohith B N banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Lohith+%F0%9F%91%8B;Turning+data+into+decisions;Statistics+%2B+Python+%2B+R+%2B+Power+BI" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Lohith+%F0%9F%91%8B;Turning+data+into+decisions;Statistics+%2B+Python+%2B+R+%2B+Power+BI" alt="Typing animation" />
 
 <p>
 Detail-oriented data enthusiast with formal training in statistics and hands-on experience in Python and R.<br>
