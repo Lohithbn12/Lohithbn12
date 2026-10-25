@@ -12,6 +12,7 @@ Adept at statistical analysis and data visualization, with a strong problem-solv
 </p>
 
 <p>
+  <a href="https://portfolio-0lzq.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/Lohithbn12?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <a href="https://www.linkedin.com/in/lohith-b-n/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:lohithbn.s1814182@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -74,6 +75,6 @@ Adept at statistical analysis and data visualization, with a strong problem-solv
 
 Data Analyst / Business Analyst / Statistician roles where I can apply statistics + analytics to real business impact.
 
-> Open to collaborate—reach out via email or LinkedIn!
+> Open to collaborate—reach out via email, LinkedIn or my [portfolio](https://portfolio-0lzq.onrender.com/)!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" width="100%" />
